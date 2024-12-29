@@ -1,0 +1,6 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "/Users/kyo/code/saba/saba_core/Cargo.toml",
+    "/Users/kyo/code/saba/net/wasabi/Cargo.toml"
+  ]
+}
